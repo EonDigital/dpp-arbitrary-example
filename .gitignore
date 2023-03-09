@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Temporary Files
+*~
+*.swp
+*.swo
